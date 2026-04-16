@@ -69,6 +69,7 @@ class App extends React.Component {
           <input type="text" placeholder="Enter task" value={this.state.currentItem.text} onChange={this.handleInput}></input>
           <button type="submit">Add</button>
         </form>
+        
         <ListItems items={this.state.items} deleteItem={this.deleteItem} setUpdate={this.setUpdate}/>
       </header>
     </div>
