@@ -23,7 +23,7 @@ These instructions work on both **macOS** and **Windows**.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/abarna1908/To-Do-App-in-React.git
+git clone https://github.com/rojas-a/To-Do.git
 cd To-Do-App-in-React
 ```
 
