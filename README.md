@@ -24,7 +24,7 @@ These instructions work on both **macOS** and **Windows**.
 
 ```bash
 git clone https://github.com/rojas-a/To-Do.git
-cd To-Do-App-in-React
+cd To-Do
 ```
 
 ### 2. Install dependencies
