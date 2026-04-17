@@ -1,15 +1,11 @@
-# To-Do App in React
+# Rise Up — Community Action Hub for People of Color
 
-A simple To-Do application built with React. Great for beginners learning React components, forms, and event handlers.
+A React web app to help people of color organize their activism, track community resources, discover opportunities, and manage personal wellness and education goals — all in one place.
 
 ## Prerequisites
 
-Make sure you have the following installed before getting started:
-
-- [Node.js](https://nodejs.org/) (v12 or higher recommended)
+- [Node.js](https://nodejs.org/) (v12 or higher)
 - npm (comes bundled with Node.js)
-
-To verify your installation, run:
 
 ```bash
 node -v
@@ -17,8 +13,6 @@ npm -v
 ```
 
 ## Getting Started
-
-These instructions work on both **macOS** and **Windows**.
 
 ### 1. Clone the repository
 
@@ -39,15 +33,21 @@ npm install
 npm start
 ```
 
-The app will open automatically at [http://localhost:3000](http://localhost:3000).
+Opens at [http://localhost:3000](http://localhost:3000).
 
 ## Features
 
-- Add tasks via the input field
-- Edit tasks inline
-- Delete tasks with the trash icon
-- Animated list transitions
+- **5 categories** — Activism, Resources, Opportunities, Wellness, Education
+- **Category filter** — view items by category
+- **Complete toggle** — mark items done with a green checkmark
+- **Inline editing** — edit any item directly in the list
+- **Stats bar** — see total, completed, and pending counts at a glance
+- **Inspirational quotes** — rotating quotes from prominent POC leaders and thinkers
+- **Animated transitions** — smooth list animations powered by react-flip-move
+- **Pan-African color theme** — red, gold, and green palette
 
-## Live Demo
+## Tech Stack
 
-[https://abarna1908.github.io/To-Do-App-in-React/](https://abarna1908.github.io/To-Do-App-in-React/)
+- React (class components)
+- FontAwesome icons
+- react-flip-move for list animations
