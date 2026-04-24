@@ -17,8 +17,8 @@ npm -v
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rojas-a/To-Do.git
-cd To-Do
+git clone https://github.com/rojas-a/Rise-Up.git
+cd Rise-Up
 ```
 
 ### 2. Install dependencies
